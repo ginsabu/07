@@ -4,9 +4,10 @@
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
 
 int main(void) {
-	
+	int y;
 	int flag = 1;
 	while(flag != 0)
+	
 	{
 		int y;
 		y = 3;
